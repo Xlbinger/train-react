@@ -1,2 +1,2 @@
 # react-train
-首页为dist/index.html
+首页为index.html
